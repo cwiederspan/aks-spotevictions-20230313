@@ -1,0 +1,18 @@
+{
+    "DocumentIncarnation": 1,
+    "Events": [
+        {
+            "EventId": "8B8D397E-6AA9-4BB4-8469-248EA5614D0F",
+            "EventStatus": "Scheduled",
+            "EventType": "Preempt",
+            "ResourceType": "VirtualMachine",
+            "Resources": [
+                "aks-spot-29843220-vmss_0"
+            ],
+            "NotBefore": "Mon, 13 Mar 2023 19:16:33 GMT",
+            "Description": "",
+            "EventSource": "Platform",
+            "DurationInSeconds": -1
+        }
+    ]
+}
